@@ -16,3 +16,8 @@ https://github.com/lingquant/msppy
 https://msppy.readthedocs.io/en/latest/
 
 - The code has been tested on a LINUX machine
+
+===================================================
+
+In addition, we included the data and code for the estimation of the Schwartz and Smith (2000) Short-Term Long-Term model
+
